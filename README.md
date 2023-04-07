@@ -9,4 +9,4 @@ Firmanın kendini tanıtmasından ürün satışına kadar olan bir internet sit
 
  <h1>Ekran Görüntüsü<h1>
 
- ![](ramazank%C3%BCn.proje2gif.gif)
+ ![](ramazank%C3%BCn.proje2gif.gif)# second
