@@ -3,10 +3,10 @@
 Firmanın kendini tanıtmasından ürün satışına kadar olan bir internet sitesi
 
 
-<h1>Kullanılan Teknolojiler<h1>
+<h2>Kullanılan Teknolojiler<h2>
 
  HTML, CSS ile dinamik yapı desteklendi
 
- <h1>Ekran Görüntüsü<h1>
+ <h3>Ekran Görüntüsü<h3>
 
- ![](ramazank%C3%BCn.proje2gif.gif)# second
+ ![](ramazank%C3%BCn.proje2gif.gif)
